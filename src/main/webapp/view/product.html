@@ -1,0 +1,152 @@
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap.css" />
+        <link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap-grid.css" />
+        <link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap.min.css" />
+        <link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap-reboot.css" />
+        <link rel="stylesheet" type="text/css" href="/css/style.css" />
+    </head>
+    <body>
+        <div id="wrapper" class="container-fluid">
+            <div class="row">
+                <div id="left-side" class="col-sm-3">
+                    <nav id="sidebar">
+                        <div id="logo"> <img src="/img/inventory.png" alt="my logo" /></div>
+                        <div class="intro">
+                            <h2>Inventory Manager</h2>
+                        </div>
+                        <ul>
+                            <li><a href="/index">Home</a></li>
+                            <li><a href="/form">Form</a></li>
+                            <li><a href="/product">Product Details</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <div id="right-side" class="col-sm-9">
+                    <div class="row">
+                        <div class="col-12 align-self-end">
+                            <section class="top-bar row justify-content-end align-items-center">
+                                <input class="search-box" placeholder="  Search..." type=""/>
+                                <img class="magnifying-glass" src="/img/magnifying-glass.jpeg" />
+                                <a class="login-link" href="https://www.google.com" target="_blank">Login</a>
+                                <img class="user-img" src="/img/user.png"/>
+                            </section>
+                        </div>
+                    </div>
+                    <div class="row product-details-card">
+                        <div class="col-12">
+                            <section class="card bg-light border-secondary">
+                                <div class="row">
+                                    <div class=col-12>
+                                        <h3 class="card-header text-center"><strong>Product Details</strong></h3>
+                                    </div>
+                                </div>
+                                <div class="row edit-button-row">
+                                    <div class="col-12 display-flex justify-content-end">
+                                        <button id="edit-button" type="button" class="btn btn-secondary">Edit</button>
+                                    </div>
+                                </div>
+
+                                <div class="row all-details-row justify-content-center">
+                                    <div class="col-6">
+                                        <div class="row">
+                                            <div class="col-12">
+                                                <img id="product-image" src="/img/chevy.jpg" />
+                                            </div>
+                                        </div>
+
+                                        <br>
+
+                                        <div class="row">
+                                            <div class="col-12">
+                                                <h5 class="text-muted detail-category"><em>Description:</em></h5>
+                                                <h5 class="text-muted"><em>This is a great description of the truck. Silverado is very dependable and has great gas mileage. They are super cool and can haul a ton of cargo. You need this truck. Make the neighbors jealous.</em></h5>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-6">
+                                        <div class="row">
+                                            <div class="col-12">
+                                                <div class="row">
+                                                    <div class="col-6">
+                                                        <h4 class="detail-category price">Price:</h4>
+                                                    </div>
+                                                    <div class="col-6">
+                                                        <h2 class="detail-result price">$28,985</h2>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="row">
+                                            <div class="col-12">
+                                                <div class="row">
+                                                    <div class="col-6">
+                                                        <h4 class="detail-category">Manufacturer:</h4>
+                                                    </div>
+                                                    <div class="col-6">
+                                                        <h2 class="detail-result">Chevrolet</h2>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="row">
+                                            <div class="col-12">
+                                                <div class="row">
+                                                    <div class="col-6">
+                                                        <h4 class="detail-category">Name:</h4>
+                                                    </div>
+                                                    <div class="col-6">
+                                                        <h2 class="detail-result">Silverado</h2>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        
+                                        <div class="row">
+                                            <div class="col-12">
+                                                <div class="row">
+                                                    <div class="col-6">
+                                                        <h4 class="detail-category">Model Year:</h4>
+                                                    </div>
+                                                    <div class="col-6">
+                                                        <h2 class="detail-result">2019</h2>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        
+                                        <div class="row">
+                                            <div class="col-12">
+                                                <div class="row">
+                                                    <div class="col-6">
+                                                        <h4 class="detail-category">MPG:</h4>
+                                                    </div>
+                                                    <div class="col-6">
+                                                        <h2 class="detail-result">22</h2>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+        <script src="./bootstrap/js/bootstrap.js"></script>
+        <script src="./bootstrap/js/bootstrap.bundle.js"></script>
+        <script src="./bootstrap/js/bootstrap.min.js"></script>
+    </body>
+
+</html>

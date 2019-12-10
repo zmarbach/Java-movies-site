@@ -3,6 +3,8 @@ plugins {
     id 'org.springframework.boot' version '2.2.0.RELEASE'
 }
 
+group 'com.improving.bootcamp.movies'
+version '1.0-SPANSHOT'
 apply plugin: 'io.spring.dependency-management'
 
 sourceCompatibility = 1.8 //this means you can only write code that has features in 8 and lower (11 features wont compile)
@@ -13,4 +15,8 @@ repositories {
 
 dependencies{
     implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'org.apache.tomcat.embed:tomcat-embed-jasper'
+    implementation 'javax.servlet:jstl:1.2'
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+    runtimeOnly 'mysql:mysql-connector-java'
 }

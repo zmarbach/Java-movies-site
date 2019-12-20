@@ -2,88 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f813767-cc2b-4d14-8777-fd61d150233d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/improving/bootcamp/movies/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/improving/bootcamp/movies/MovieRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/improving/bootcamp/movies/SimpleController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/improving/pim/MvcConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/improving/pim/PimApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/improving/pim/SimpleController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/improving/bootcamp/movies/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/improving/bootcamp/movies/Movie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/improving/bootcamp/movies/MovieRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/improving/bootcamp/movies/MovieRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/improving/bootcamp/movies/SimpleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/improving/bootcamp/movies/SimpleController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bootstrap/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bootstrap/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bootstrap/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bootstrap/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bootstrap/js/bootstrap.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bootstrap/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/img/camera.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/img/chevy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/img/inventory.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/img/magnifying-glass.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/img/user.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/improving/pim/MvcConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/improving/pim/PimApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/improving/bootcamp/movies/MovieApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/improving/pim/SimpleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/improving/bootcamp/movies/ErrorHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/improving/bootcamp/movies/ErrorHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/improving/bootcamp/movies/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/improving/bootcamp/movies/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/improving/bootcamp/movies/MovieDoesNotExistException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/improving/bootcamp/movies/MovieDoesNotExistException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/improving/bootcamp/movies/MovieRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/improving/bootcamp/movies/MovieRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/improving/bootcamp/movies/SimpleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/improving/bootcamp/movies/SimpleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/improving/bootcamp/movies/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/improving/bootcamp/movies/WebConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap/js/bootstrap.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/camera.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/chevy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/inventory.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/magnifying-glass.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/user.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/product.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -136,6 +73,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -150,7 +88,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../projecty-web" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
@@ -263,8 +201,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.SpringMVC-movies [clean]" />
         <item itemvalue="Gradle.pim [bootRun]" />
+        <item itemvalue="Gradle.SpringMVC-movies [clean]" />
         <item itemvalue="Application.MovieApp" />
         <item itemvalue="JUnit.SimpleControllerTest.testAddPage" />
         <item itemvalue="JUnit.SimpleControllerTest.test" />
